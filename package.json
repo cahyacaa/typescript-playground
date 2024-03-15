@@ -1,0 +1,9 @@
+{
+  "name": "typescript-playground",
+  "version": "1.0.0",
+  "description": "this just for entertainment purposes",
+  "main": "index.ts",
+  "repository": "https://github.com/cahyacaa/typescript-playground.git",
+  "author": "cahyacaa",
+  "license": "MIT"
+}
